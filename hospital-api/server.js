@@ -10,7 +10,7 @@ const swaggerJsDoc = require('swagger-jsdoc');
 // Import routes
 const authRoutes = require('./routes/auth');
 const employeeRoutes = require('./routes/employees');
-const userRoutes = require('./routes/users');
+const userRoutes = require('./routes/userRoutes');
 const doctorRoutes = require('./routes/doctors');
 const patientRoutes = require('./routes/patients');
 const medicineRoutes = require('./routes/medicines');
