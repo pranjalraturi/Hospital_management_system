@@ -10,7 +10,7 @@ A Node.js backend API for managing hospital operations like user management, pat
 ✅ Features Implemented
 
 👤 User Management
-Register and login users with roles (admin, doctor, patient, employee).
+Register and login users with roles (admin, doctor, patient, employee,medicine).
 
 🧑‍💼 Employee Management
 Manage employees, including salary, DOB, joining date, and user mapping.
